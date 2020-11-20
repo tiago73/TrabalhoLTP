@@ -1,0 +1,5 @@
+C:\Users\doido\Desktop\LTP_trabalho\Trabalho\Trabalho.LTP.Dominio\bin\Debug\Trabalho.LTP.Dominio.dll
+C:\Users\doido\Desktop\LTP_trabalho\Trabalho\Trabalho.LTP.Dominio\bin\Debug\Trabalho.LTP.Dominio.pdb
+C:\Users\doido\Desktop\LTP_trabalho\Trabalho\Trabalho.LTP.Dominio\obj\Debug\Trabalho.LTP.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\doido\Desktop\LTP_trabalho\Trabalho\Trabalho.LTP.Dominio\obj\Debug\Trabalho.LTP.Dominio.dll
+C:\Users\doido\Desktop\LTP_trabalho\Trabalho\Trabalho.LTP.Dominio\obj\Debug\Trabalho.LTP.Dominio.pdb

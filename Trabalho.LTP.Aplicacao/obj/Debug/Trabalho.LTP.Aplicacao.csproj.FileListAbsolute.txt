@@ -1,0 +1,16 @@
+C:\Users\doido\Desktop\LTP_trabalho\Trabalho\Trabalho.LTP.Aplicacao\bin\Debug\Trabalho.LTP.Aplicacao.dll
+C:\Users\doido\Desktop\LTP_trabalho\Trabalho\Trabalho.LTP.Aplicacao\bin\Debug\Trabalho.LTP.Aplicacao.pdb
+C:\Users\doido\Desktop\LTP_trabalho\Trabalho\Trabalho.LTP.Aplicacao\bin\Debug\FluentValidation.dll
+C:\Users\doido\Desktop\LTP_trabalho\Trabalho\Trabalho.LTP.Aplicacao\bin\Debug\Trabalho.Ltp.Data.dll
+C:\Users\doido\Desktop\LTP_trabalho\Trabalho\Trabalho.LTP.Aplicacao\bin\Debug\Trabalho.LTP.Dominio.dll
+C:\Users\doido\Desktop\LTP_trabalho\Trabalho\Trabalho.LTP.Aplicacao\bin\Debug\EntityFramework.dll
+C:\Users\doido\Desktop\LTP_trabalho\Trabalho\Trabalho.LTP.Aplicacao\bin\Debug\Trabalho.Ltp.Data.pdb
+C:\Users\doido\Desktop\LTP_trabalho\Trabalho\Trabalho.LTP.Aplicacao\bin\Debug\Trabalho.Ltp.Data.dll.config
+C:\Users\doido\Desktop\LTP_trabalho\Trabalho\Trabalho.LTP.Aplicacao\bin\Debug\Trabalho.LTP.Dominio.pdb
+C:\Users\doido\Desktop\LTP_trabalho\Trabalho\Trabalho.LTP.Aplicacao\bin\Debug\FluentValidation.xml
+C:\Users\doido\Desktop\LTP_trabalho\Trabalho\Trabalho.LTP.Aplicacao\bin\Debug\EntityFramework.xml
+C:\Users\doido\Desktop\LTP_trabalho\Trabalho\Trabalho.LTP.Aplicacao\obj\Debug\Trabalho.LTP.Aplicacao.csprojAssemblyReference.cache
+C:\Users\doido\Desktop\LTP_trabalho\Trabalho\Trabalho.LTP.Aplicacao\obj\Debug\Trabalho.LTP.Aplicacao.csproj.CoreCompileInputs.cache
+C:\Users\doido\Desktop\LTP_trabalho\Trabalho\Trabalho.LTP.Aplicacao\obj\Debug\Trabalho.LTP.Aplicacao.csproj.CopyComplete
+C:\Users\doido\Desktop\LTP_trabalho\Trabalho\Trabalho.LTP.Aplicacao\obj\Debug\Trabalho.LTP.Aplicacao.dll
+C:\Users\doido\Desktop\LTP_trabalho\Trabalho\Trabalho.LTP.Aplicacao\obj\Debug\Trabalho.LTP.Aplicacao.pdb
